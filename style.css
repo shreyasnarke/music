@@ -44,7 +44,7 @@ nav ul li{
     border-radius: 12px;
 }
 .songitems{
-    
+    height: 0px;
 }
 .songitems img{
     height: 39px;
